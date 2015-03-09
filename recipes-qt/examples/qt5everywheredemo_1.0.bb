@@ -7,7 +7,7 @@ LIC_FILES_CHKSUM = "file://main.cpp;md5=1187cb795a0f96bce64e63dd1a67dc2b"
 DEPENDS = "qtdeclarative qtgraphicaleffects"
 
 SRCREV = "9a868f96ee63c21ceda890d8dfc9d33f093d1b6d"
-SRC_URI = "git://gitorious.org/qt-labs/qt5-everywhere-demo.git"
+SRC_URI = "git://code.qt.io/qt-labs/qt5-everywhere-demo.git"
 
 S = "${WORKDIR}/git/QtDemo"
 
